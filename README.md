@@ -58,7 +58,6 @@ You can see a live demo (if deployed to Streamlit Cloud or similar) or static sc
     * ![Main Interface](https://placehold.co/800x450/cccccc/333333?text=Main%20UI%20Screenshot)
     * ![Enhancement Example](https://placehold.co/800x450/cccccc/333333?text=AI%20Enhancement%20Before%20and%20After)
     * ![ELA Example](https://placehold.co/800x450/cccccc/333333?text=ELA%20Forensics%20Result)
-    * *(Replace these placeholder links with actual screenshots of your app showcasing key features like enhancement before/after, ELA, background removal, and the general interface.)*
 
 ---
 
