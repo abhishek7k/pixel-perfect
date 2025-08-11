@@ -51,11 +51,15 @@ PixelPerfect is a comprehensive, web-based image processing application designed
 You can see a live demo (if deployed to Streamlit Cloud or similar) or static screenshots here:
 
 * **Screenshots:**
-    * ![Main Interface](https://placehold.co/800x450/cccccc/333333?text=Main%20UI%20Screenshot)
-    * ![Enhancement Example](https://placehold.co/800x450/cccccc/333333?text=AI%20Enhancement%20Before%20and%20After)
-    * ![ELA Example](https://placehold.co/800x450/cccccc/333333?text=ELA%20Forensics%20Result)
-
----
+https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20150654.png
+https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170026.png
+https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170142.png
+https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170255.png
+https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170350.png
+https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170523.png
+https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20172330.png
+https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20175921.png
+--
 
 ## ⚙️ Installation & Setup
 
