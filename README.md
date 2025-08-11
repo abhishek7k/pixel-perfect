@@ -49,7 +49,7 @@ PixelPerfect is a comprehensive, web-based image processing application designed
 You can see a live demo (if deployed to Streamlit Cloud or similar) or static screenshots here:
 
 * **Screenshots:**
-* 
+  
 https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20150654.png
 https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170026.png
 https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170142.png
