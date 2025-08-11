@@ -1,7 +1,6 @@
 # ✨ PixelPerfect: Image Resolution Optimizer & Editor 📸
 
 ![Streamlit Logo](https://assets-global.website-files.com/5f72674e1d13755b41a3884b/60b9432f22b07e86e74b338d_Streamlit-logo.png)
-*(Placeholder: You might replace this with a custom logo or a screenshot of your app's main interface)*
 
 ## Enhance, Optimize, and Analyze Your Digital Images with AI & Simplicity!
 
