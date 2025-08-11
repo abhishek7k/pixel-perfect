@@ -1,7 +1,5 @@
 # ✨ PixelPerfect: Image Resolution Optimizer & Editor 📸
 
-![Streamlit Logo](https://assets-global.website-files.com/5f72674e1d13755b41a3884b/60b9432f22b07e86e74b338d_Streamlit-logo.png)
-
 ## Enhance, Optimize, and Analyze Your Digital Images with AI & Simplicity!
 
 PixelPerfect is a comprehensive, web-based image processing application designed to empower users with advanced tools for enhancing, optimizing, and even forensically analyzing their digital images. Built with Python and Streamlit, it provides a user-friendly interface to leverage powerful AI models and traditional image manipulation techniques for various needs, from content creation to basic digital forensics.
@@ -51,6 +49,7 @@ PixelPerfect is a comprehensive, web-based image processing application designed
 You can see a live demo (if deployed to Streamlit Cloud or similar) or static screenshots here:
 
 * **Screenshots:**
+* 
 https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20150654.png
 https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170026.png
 https://github.com/abhishek7k/pixel-perfect/blob/main/Screenshot%202025-06-02%20170142.png
@@ -173,6 +172,6 @@ We envision several exciting future enhancements for PixelPerfect:
 
 ## 📧 Contact
 
-For any questions, feedback, or collaborations, please feel free to reach out to Abhishek Kumar at [abk210820@gmail.com].
+For any questions, feedback, or collaborations, please feel free to reach out to Abhishek Kumar at abk210820@gmail.com
 
 ---
