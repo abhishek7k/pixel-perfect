@@ -53,7 +53,6 @@ PixelPerfect is a comprehensive, web-based image processing application designed
 
 You can see a live demo (if deployed to Streamlit Cloud or similar) or static screenshots here:
 
-* **Live Demo (if applicable):** [Link to Streamlit Cloud App]
 * **Screenshots:**
     * ![Main Interface](https://placehold.co/800x450/cccccc/333333?text=Main%20UI%20Screenshot)
     * ![Enhancement Example](https://placehold.co/800x450/cccccc/333333?text=AI%20Enhancement%20Before%20and%20After)
