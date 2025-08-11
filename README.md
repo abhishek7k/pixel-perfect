@@ -49,8 +49,6 @@ PixelPerfect is a comprehensive, web-based image processing application designed
 
 ## 📸 Demo & Screenshots
 
-*(Placeholder: This section is CRUCIAL for an image processing project!)*
-
 You can see a live demo (if deployed to Streamlit Cloud or similar) or static screenshots here:
 
 * **Screenshots:**
